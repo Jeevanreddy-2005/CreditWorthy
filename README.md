@@ -85,7 +85,4 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
 [![Jeevan N](https://img.shields.io/badge/jeevan%20n-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-n-39a5652a3)
 &nbsp;
 [![Rishi Majeti](https://img.shields.io/badge/Rishi%20Majeti-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-majeti-01b6102b4/)
-# CreditWorthy
-# CreditWorthy
-# CreditWorthy
-# CreditWorthy
+
